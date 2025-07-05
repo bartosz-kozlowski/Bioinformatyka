@@ -1,0 +1,1 @@
+Problem sekwencjonowania łańcuchów DNA napisany w języku C++ z użyciem algorytmu zachłannego oraz metaheurystyki, dodatkowo w repozytorium znajduje się skrypt w języku Python przydatny do generowania wykresów. 
